@@ -23,6 +23,6 @@ public class addsum
                            sum+=a[i];
                    }  	    
                    System.out.println("sum of "+n+" numbers is ="+sum);
-		System.out.println("aja");
+		System.out.println("ajak");
               	}
 } 
