@@ -1,7 +1,5 @@
-package pythprog.prog1;
 import java.util.Scanner;
-
-public class addsum 
+class sum
 {
 	public static void main(String arg[])	
 	{
@@ -22,7 +20,6 @@ public class addsum
                    {
                            sum+=a[i];
                    }  	    
-                   System.out.println("sum of "+n+" numbers is ="+sum);
-		System.out.println("ajak");
+                   System.out.println("sum of "+n+" numbers is ="+sum);                  
               	}
 } 
